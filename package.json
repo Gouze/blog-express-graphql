@@ -1,0 +1,20 @@
+{
+  "name": "blog-express-graphql",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.4.0",
+    "mongoose": "^5.11.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
